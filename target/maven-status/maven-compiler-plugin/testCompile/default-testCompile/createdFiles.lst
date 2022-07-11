@@ -1,0 +1,3 @@
+com\smartclient\cucumber\CucumberRunner.class
+com\smartclient\CurrencyInformation\CurrencyCURDTest.class
+com\smartclient\testbase\TestBase.class

@@ -1,0 +1,6 @@
+com\smartclient\params\Headers.class
+com\smartclient\utils\TestUtils.class
+com\smartclient\constants\Path.class
+com\smartclient\CurrencyInformation\CurrencyAssertionSteps.class
+com\smartclient\constants\EndPoints.class
+com\smartclient\utils\PropertyReader.class
